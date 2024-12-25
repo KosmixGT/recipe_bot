@@ -1,0 +1,5 @@
+# Configuration settings
+TELEGRAM_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+SPOONACULAR_API_KEY = "YOUR_SPOONACULAR_API_KEY"
+LOGGING_FORMAT = '%(asctime)s - %(levelname)s - %(message)s'
+LOGGING_LEVEL = 'INFO'

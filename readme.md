@@ -59,7 +59,7 @@ python main.py
 6.	Получить инструкции по приготовлению
 
 ## Структура проекта
-
+```bash
 recipe_bot/
 ├── config/
 │   └── config.py
@@ -74,3 +74,4 @@ recipe_bot/
 │   └── utils/
 │       └── helpers.py
 └── main.py
+```
